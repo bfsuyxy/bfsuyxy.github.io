@@ -14,6 +14,7 @@ body {
   h2 {
     color: forestgreen;
     margin-left: 40px;
+    margin-bottom: 0px;
     font-family:Arial, "楷体","楷体_GB2312";
     font-size: 25px;
   }
@@ -31,7 +32,21 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
     margin-right: 100px;
-    margin-left: 25px;
+    margin-left: 170px;
+  }
+  p1 {
+    font-family:Arial, "楷体","楷体_GB2312";
+    font-size: 20px;
+    text-indent: 0px;
+    line-height: 2.3;
+    margin-left: 400px;
+  }
+  p2 {
+    font-family:Arial, "楷体","楷体_GB2312";
+    font-size: 20px;
+    text-indent: 0px;
+    line-height: 2.3;
+    margin-left: 0px;
   }
   ul.a {
     list-style-type: square;
@@ -78,3 +93,4 @@ body {
   li a:hover {
     background-color: darkseagreen;
   }
+  
